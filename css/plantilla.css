@@ -1,0 +1,47 @@
+body { 
+	font-family: Georgia, "Times New Roman", Times, serif; 
+	color: orange; 
+	//background-color: #d8da3d;
+} 
+h1 { 
+	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+	color: teal;
+	text-transform: uppercase;
+} 
+a{ 
+	text-decoration: none;
+} 
+a:link { 
+	color: blue 
+} 
+a:visited { 
+	color: black;
+} 
+a:hover{
+	color: white;
+	font-weight: bold;
+} 
+p { 
+	text-indent: 20px; 
+	border: 5px solid gray; 
+	line-height: 200%; 
+	background: white;
+	color: green;
+} 
+.renglon { 
+	font-family: Georgia, "Times New Roman", Times, serif; 
+	color: lightblue; 
+} 
+.renglon2 { 
+	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+	font-size: 10px		 
+} 
+#uno { 
+	font-family: Georgia, "Times New Roman", Times, serif; 
+	color: lightblue; 
+} 
+#renglon2 { 
+	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
+	font-size: 10px;
+    background: yellow;	
+}
