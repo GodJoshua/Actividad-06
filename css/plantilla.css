@@ -25,8 +25,8 @@ p {
 	text-indent: 20px; 
 	border: 5px solid gray; 
 	line-height: 200%; 
-	background: white;
-	color: green;
+	
+	color: white;
 } 
 .renglon { 
 	font-family: Georgia, "Times New Roman", Times, serif; 
@@ -44,4 +44,13 @@ p {
 	font-family: Helvetica, Geneva, Arial, SunSans-Regular, sans-serif;
 	font-size: 10px;
     background: yellow;	
+}
+.carousel-inner img {
+    width: 100%;
+    max-height: 600px;
+}
+
+.carousel-inner{
+ height: 100%;
+
 }
